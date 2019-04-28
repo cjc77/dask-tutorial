@@ -11,3 +11,6 @@ data/weather-big
 data/myfile.hdf5
 profile.html
 log
+data/flightjson/
+data/nycflights.tar.gz
+data/nycflights/
